@@ -55,7 +55,11 @@ You will need Python installed along with Pygame and NEAT-Python.
 ```bash
 pip install pygame neat-python
 
-https://github.com/user-attachments/assets/3230df57-65c6-43aa-a169-d8bea472aa76
+```
+
+https://github.com/user-attachments/assets/c518f1ca-da42-482a-8e42-61e2c3a023be
+
+
 
 
 
